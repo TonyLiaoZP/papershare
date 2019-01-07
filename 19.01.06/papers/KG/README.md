@@ -1,0 +1,7 @@
+* [Knowledge Graph Embedding: A Survey of Approaches and Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8047276)
+* [KBGAN: Adversarial Learning for Knowledge Graph Embeddings](https://arxiv.org/pdf/1711.04071.pdf)
+* [Neural Knowledge Acquisition via Mutual Attention between Knowledge Graph and Text](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_jointnre.pdf)
+* [Ripple Network: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467.pdf)
+* [Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval](https://arxiv.org/pdf/1805.07591.pdf)
+* [Denoising Distantly Supervised Open-Domain Question Answering]http://www.aclweb.org/anthology/P18-1161)
+* [Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](http://www.aclweb.org/anthology/P17-1132)
