@@ -1,0 +1,7 @@
+* [Learned in translation - contextualized word vectors](https://arxiv.org/pdf/1708.00107.pdf)
+* [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)
+* [Universal language model fine-tuning for text classification](https://arxiv.org/pdf/1801.06146v5.pdf)
+* [bi-directional attention flow for machine comprehension](https://arxiv.org/pdf/1611.01603v1.pdf)
+* [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+* [Contextual String Embeddings for Sequence Labeling](http://www.aclweb.org/anthology/C18-1139)
+* [BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
