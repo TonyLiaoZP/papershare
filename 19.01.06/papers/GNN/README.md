@@ -1,0 +1,7 @@
+* [FastGCN: fast learning with graph convolutional networks via importance sampling](https://arxiv.org/pdf/1801.10247.pdf)
+* [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)
+* [Graph Neural Networks A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
+* [Large-Scale Learnable Graph Convolutional Networks](http://delivery.acm.org/10.1145/3220000/3219947/p1416-gao.pdf?ip=166.111.68.91&id=3219947&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546849172_aea15e8ea6b4f8cc670fc8bf295dc738)
+* [Network Representation Learning: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8395024)
+* [Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
+* [Wavelets on graphs via spectral graph theory](https://ac.els-cdn.com/S1063520310000552/1-s2.0-S1063520310000552-main.pdf?_tid=1a68e3ec-6e0a-4a32-81d0-80b919b7019e&acdnat=1546849027_a128561068688b4e9935f0eb352b19e6)
