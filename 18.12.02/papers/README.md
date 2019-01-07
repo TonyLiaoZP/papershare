@@ -1,0 +1,8 @@
+* [Scaling Learning Algorithms towards AI](http://www.iro.umontreal.ca/~lisa/bib/pub_subject/language/pointeurs/bengio+lecun-chapter2007.pdf)
+* [Representation Learning/ A Review and New Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6472238)
+* [The Consciousness Prior](https://arxiv.org/pdf/1709.08568.pdf)
+* [Learning Independent Features with Adverasial Nets for Non-linear ICA](https://arxiv.org/pdf/1710.05050.pdf)
+* [Measuring the tendency of CNNs to Learn Surface Statistical Regularities](https://arxiv.org/pdf/1711.11561.pdf)
+* [Mutual Information Neural Estimation](https://arxiv.org/pdf/1801.04062.pdf)
+* [Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding](http://papers.nips.cc/paper/7991-sparse-attentive-backtracking-temporal-credit-assignment-through-reminding.pdf)
+* [BabyAI:First Steps Towards Grounded Language Learning with A Human in the Loop](https://arxiv.org/pdf/1810.08272.pdf)
