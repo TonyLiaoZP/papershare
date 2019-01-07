@@ -3,5 +3,5 @@
 * [Neural Knowledge Acquisition via Mutual Attention between Knowledge Graph and Text](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_jointnre.pdf)
 * [Ripple Network: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467.pdf)
 * [Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval](https://arxiv.org/pdf/1805.07591.pdf)
-* [Denoising Distantly Supervised Open-Domain Question Answering]http://www.aclweb.org/anthology/P18-1161)
+* [Denoising Distantly Supervised Open-Domain Question Answering](http://www.aclweb.org/anthology/P18-1161)
 * [Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](http://www.aclweb.org/anthology/P17-1132)
